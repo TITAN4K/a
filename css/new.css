@@ -1,0 +1,37 @@
+ body{
+  font-family: san-serif;
+  background-color: black;
+  color: red;
+  font-size: .9em;
+}
+ h1{
+text-decoration: underline;
+}
+.half-width{
+  width: 45%;
+  float: left;
+  margin: 10px 20px 10px 20px;
+  padding: 10px 10px 10px 10px;
+  }
+.container{
+  padding-left: 5%;
+  display: inline block;
+}
+.full{
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+}
+.steel{
+  background-color: blue;
+  border-radius: 10px;
+  color; black;
+}
+.x{
+  width:100%;
+  margin:10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+}
+.ok{
+  color: white;
+  text-decoration: underline;
+}
